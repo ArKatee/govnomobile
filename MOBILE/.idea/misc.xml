@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable-v24/button1.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable-v24/round.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable-v24/round2.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable-v24/round3.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable/button.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable/ic__exit.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable/ic_close.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2985" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/changing_the_password.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/enter_prof.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/film.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/fragment_home.xml" value="0.24731182795698925" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/fragment_my_profile.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/fragment_notifications.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/fragment_something.xml" value="0.31929347826086957" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/linking_card.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_ticket_two.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_tickets.xml" value="0.25" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_tickets_1.xml" value="0.25" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_tickets__+.xml" value="0.31929347826086957" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_tickets__one.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/my_tickets_list.xml" value="0.25" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/news.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/news_list.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/now_film1.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/now_film_1.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/now_film_2.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/now_films_list.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/paid.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/profil.xml" value="0.358695652173913" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/profile.xml" value="0.31929347826086957" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/registration.xml" value="0.22" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/seans_film.xml" value="0.33" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/layout/tickets.xml" value="0.25" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/mirea/MOBILE/app/src/main/res/menu/main.xml" value="0.36102564102564105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
