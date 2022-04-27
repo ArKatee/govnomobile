@@ -2,7 +2,7 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/item2"
+        android:id="@+id/exit"
         android:icon="@drawable/ic__exit"
         android:title="@string/exit"
         app:showAsAction="always">
